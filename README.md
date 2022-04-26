@@ -1,5 +1,5 @@
-# demo on gcp 
-[link](http://35.221.204.173/)
+[Demo on gcp](http://35.221.204.173/)
+尚未完成
 
 # 安裝套件
 1. livewire `composer require livewire/livewire`
